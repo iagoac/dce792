@@ -15,7 +15,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 
   - **15/08** - Aula 01: Introdução a disciplina DCE792
   - **16/08** - [Aula 02: Revisão de C](https://github.com/iagoac/dce792/blob/main/slides/aula_02.pdf)
-  - **22/08** - Aula 03: Revisão de C - Continuação
+  - **22/08** - [Aula 03: Revisão de C - Continuação](https://github.com/iagoac/dce792/blob/main/slides/aula_03.pdf)
   - **23/08** - Aula 04: Noções de complexidade de algoritmos
   - **29/08** - Aula 05: Compilando programas com Makefile
   - **30/08** - Aula 06: Debugando programas com Valgrind e Disponibilização do TP1
