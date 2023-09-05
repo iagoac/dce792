@@ -19,12 +19,12 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **23/08** - Aula 04: Noções de complexidade de algoritmos
   - **29/08** - [Aula 05: Compilando programas com Makefile](https://github.com/iagoac/dce792/blob/main/slides/aula_05.pdf)
   - **30/08** - [Aula 06: Debugando programas com Valgrind](https://github.com/iagoac/dce792/blob/main/slides/aula_06.pdf) e Disponibilização do TP1
-  - **05/09** - Aula 07: Listas simples
-  - **06/09** - Aula 08: Listas simples - continuação
-  - **12/09** - Aula 09: Listas ligadas
-  - **13/09** - Aula 10: Listas ligadas - continuação
-  - **19/09** - Aula 11: Filas e pilhas
-  - **20/09** - Aula 12: Filas e pilhas - continuação
+  - **05/09** - [Aula 07: Listas simples](https://github.com/iagoac/dce792/blob/main/slides/aula_07.pdf)
+  - **06/09** - Aula 08: Listas duplamente ligadas
+  - **12/09** - Aula 09: Listas circulares
+  - **13/09** - Aula 10: Filas
+  - **19/09** - Aula 11: Pilhas
+  - **20/09** - Aula 12: Tempo para preparação do TP1
   - **26/09** - Aula 13: Tempo para preparação do TP1
   - **27/09** - Aula 14: Entrega do TP1 e disponibilzação do TP2
   - **03/10** - Aula 15: Árvores binárias
