@@ -11,4 +11,4 @@ int obter_primeiro(void);
 int obter_ultimo(void);
 void imprimir();
 
-#endif _H_LISTA
+#endif // _H_LISTA

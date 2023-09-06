@@ -19,7 +19,6 @@ CC=gcc
 CC_FLAGS=-c         \
          -Wall      \
 		 -g         \
-         -ansi      \
          -pedantic
 
 #########################
