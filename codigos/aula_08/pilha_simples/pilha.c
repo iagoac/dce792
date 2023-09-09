@@ -60,10 +60,8 @@ int pop(struct pilha* pilha) {
 		printf("\nPilha  vazia. Impossível remover elementos");
         return -1; 
     }
-    // Remove o elemento no topo da pilha
-	return pilha->items[pilha->topo]; 
-    // Diminui o topo da pilha
-    pilha->topo--;
+    // Remove o elemento no topo da pilha e diminui o topo
+	return (pilha->items[pilha->topo--]); 
 } 
 
 int obtem_elemento(struct pilha* pilha) { 
