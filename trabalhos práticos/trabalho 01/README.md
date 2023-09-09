@@ -3,7 +3,11 @@
 
 No jogo de xadrez, cada jogador inicia a partida com dois cavalos. Esta peça se movimenta de forma especial, fazendo um "L" no tabuleiro, conforme pode ser observado na figura abaixo. Note que ele sempre se move duas casas em uma direção, e então uma outra casa a esquerda ou a direita da direção inicial.
 
+![movimento_cavalo](https://github.com/iagoac/dce792/assets/8388583/67070d36-f709-4d60-9993-85e1c25a1603)
+
 Nós dizemos que um percurso de um cavalo é completo quando, a partir de um ponto inicial qualquer, este consegue percorrer todas as casas de um tabuleiro de xadrez sem repetir nenhuma. Um exemplo de um percurso de um cavalo é mostrado na figura abaixo. 
+
+![percurso_cavalo](https://github.com/iagoac/dce792/assets/8388583/5e598c26-099a-4650-bb2b-40f3ed0a9fb9)
 
 Um percurso pode ser dito *fechado* ou *aberto*. Considera-se como *fechado* um percurso no qual o cavalo é capaz de retornar a sua posição inicial após preencher todo o tabuleiro. Já um percurso é dito ser *aberto* caso não seja possível realizar tal retorno. Nota-se na figura acima que o cavalo realizou um percurso fechado, pois ele foi capaz de retornar a sua posição inicial logo após o fim do percurso.
 
@@ -15,7 +19,7 @@ Neste trabalho cada grupo (de dois ou três integrantes) deverá implementar um 
 O código deve contar, separadamente, os percursos fechados e abertos. Para isto, o grupo deverá utilizar uma ou mais das estruturas de dados aprendidas em sala de aula
 
 ### Entradas
-Diversas instâncias de teste serão dadas como entrada. Cada instância de teste será uma tupla $<n, m>$, onde $n$ e $m$ são as dimensões do tabuleiro de xadrez.
+Diversas instâncias de teste serão dadas como entrada. Cada instância de teste será uma tupla $(n, m)$, onde $n$ e $m$ são as dimensões do tabuleiro de xadrez.
 
 Serão fornecidas 20 instâncias de teste, sendo que a saída de 5 delas já serão conhecidas previamente como forma de validar o algoritmo desenvolvido pelo grupo.
 
