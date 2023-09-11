@@ -21,7 +21,7 @@ O código deve contar, separadamente, os percursos fechados e abertos. Para isto
 ### Entradas
 Diversas instâncias de teste serão dadas como entrada. Cada instância de teste será uma tupla $(n, m)$, onde $n$ e $m$ são as dimensões do tabuleiro de xadrez.
 
-Serão fornecidas 20 instâncias de teste, sendo que a saída de 5 delas já serão conhecidas previamente como forma de validar o algoritmo desenvolvido pelo grupo.
+Serão fornecidas 10 instâncias de teste, sendo que a saída de 3 delas já serão conhecidas previamente como forma de validar o algoritmo desenvolvido pelo grupo.
 
 ### Saída esperada
 Espera-se que o código imprima somente dois números inteiros. O primeiro número deverá indicar o número de diferentes passeios fechados que o cavalo foi capaz de realizar, enquanto o segundo número deverá simbolizar o número de passeios abertos distintos que o cavalo conseguiu percorrer.
