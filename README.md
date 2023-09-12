@@ -21,8 +21,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **30/08** - [Aula 06: Debugando programas com Valgrind](https://github.com/iagoac/dce792/blob/main/slides/aula_06.pdf) e [Disponibilização do TP1](https://github.com/iagoac/dce792/tree/main/trabalhos%20pr%C3%A1ticos/trabalho%2001)
   - **05/09** - [Aula 07: Listas simples](https://github.com/iagoac/dce792/blob/main/slides/aula_07.pdf)
   - **06/09** - [Aula 08: Pilhas](https://github.com/iagoac/dce792/blob/main/slides/aula_08.pdf)
-  - **12/09** - Aula 09: Filas
-  - **13/09** - Aula 10: Filas circulares
+  - **12/09** - [Aula 09: Filas circulares](https://github.com/iagoac/dce792/blob/main/slides/aula_09.pdf)
+  - **13/09** - Aula 10: Filas com apontadores
   - **19/09** - Aula 11: Listas duplamente encadeadas
   - **20/09** - Aula 12: Tempo para preparação do TP1
   - **26/09** - Aula 13: Tempo para preparação do TP1
