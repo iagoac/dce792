@@ -23,7 +23,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **06/09** - [Aula 08: Pilhas](https://github.com/iagoac/dce792/blob/main/slides/aula_08.pdf)
   - **12/09** - [Aula 09: Filas circulares](https://github.com/iagoac/dce792/blob/main/slides/aula_09.pdf)
   - **13/09** - [Aula 10: Filas com apontadores](https://github.com/iagoac/dce792/blob/main/slides/aula_10.pdf)
-  - **19/09** - Aula 11: Listas duplamente encadeadas
+  - **19/09** - [Aula 11: Listas duplamente encadeadas](https://github.com/iagoac/dce792/blob/main/slides/aula_11.pdf)
   - **20/09** - Aula 12: Tempo para preparação do TP1
   - **26/09** - Aula 13: Tempo para preparação do TP1
   - **27/09** - Aula 14: Entrega do TP1 e disponibilzação do TP2
