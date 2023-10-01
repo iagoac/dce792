@@ -26,7 +26,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **19/09** - [Aula 11: Listas duplamente encadeadas](https://github.com/iagoac/dce792/blob/main/slides/aula_11.pdf)
   - **20/09** - Aula 12: Tempo para preparação do TP1
   - **26/09** - Aula 13: Tempo para preparação do TP1
-  - **27/09** - Aula 14: Entrega do TP1 e disponibilzação do TP2
+  - **27/09** - Aula 14: Entrega do TP1 e [disponibilzação do TP2](https://github.com/iagoac/dce792/tree/main/trabalhos%20pr%C3%A1ticos/trabalho%2002)
   - **03/10** - [Aula 15: Árvores binárias](https://github.com/iagoac/dce792/blob/main/slides/aula_15.pdf)
   - **04/10** - Aula 16: Caminhamento em árvores binárias
   - **10/10** - Aula 17: Árvores balanceadas
