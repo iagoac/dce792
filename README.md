@@ -29,8 +29,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **27/09** - Aula 14: Entrega do TP1 e [disponibilzação do TP2](https://github.com/iagoac/dce792/tree/main/trabalhos%20pr%C3%A1ticos/trabalho%2002)
   - **03/10** - [Aula 15: Árvores binárias](https://github.com/iagoac/dce792/blob/main/slides/aula_15.pdf)
   - **04/10** - [Aula 16: Percursos em árvores binárias](https://github.com/iagoac/dce792/blob/main/slides/aula_16.pdf)
-  - **10/10** - Aula 17: Árvores balanceadas
-  - **11/10** - Aula 18: Árvores balanceadas - continuação
+  - **10/10** - [Aula 17: Balanceando uma árvore binária (Assíncrona online)](https://github.com/iagoac/dce792/blob/main/slides/aula_17.pdf)
+  - **11/10** - Aula 18: Árvores balanceadas
   - **17/10** - Aula 19: Árvores balanceadas - continuação
   - **18/10** - Aula 20: Tempo para preparação do TP2
   - **24/10**   Aula 21: Entrega do TP2 e disponibilização do TP3
