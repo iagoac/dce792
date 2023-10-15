@@ -26,14 +26,14 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **19/09** - [Aula 11: Listas duplamente encadeadas](https://github.com/iagoac/dce792/blob/main/slides/aula_11.pdf)
   - **20/09** - Aula 12: Tempo para preparação do TP1
   - **26/09** - Aula 13: Tempo para preparação do TP1
-  - **27/09** - Aula 14: Entrega do TP1 e [disponibilzação do TP2](https://github.com/iagoac/dce792/tree/main/trabalhos%20pr%C3%A1ticos/trabalho%2002)
+  - **27/09** - Aula 14: Entrega do TP1 e [disponibilzação do TP2](https://github.com/iagoac/dce792/tree/main/trabalhos%20pr%C3%A1ticos/trabalho%2002) (Sem aula nesta data)
   - **03/10** - [Aula 15: Árvores binárias](https://github.com/iagoac/dce792/blob/main/slides/aula_15.pdf)
   - **04/10** - [Aula 16: Percursos em árvores binárias](https://github.com/iagoac/dce792/blob/main/slides/aula_16.pdf)
   - **10/10** - [Aula 17: Balanceando uma árvore binária (Assíncrona online)](https://github.com/iagoac/dce792/blob/main/slides/aula_17.pdf)
-  - **11/10** - Aula 18: Árvores balanceadas
-  - **17/10** - Aula 19: Árvores balanceadas - continuação
+  - **11/10** - [Aula 18: Árvores balanceadas (AVL)](https://github.com/iagoac/dce792/blob/main/slides/aula_18.pdf)
+  - **17/10** - [Aula 19: Remoção em árvores AVL](https://github.com/iagoac/dce792/blob/main/slides/aula_19.pdf)
   - **18/10** - Aula 20: Tempo para preparação do TP2
-  - **24/10**   Aula 21: Entrega do TP2 e disponibilização do TP3
+  - **24/10** - Aula 21: Entrega do TP2 e disponibilização do TP3 (sem aula nesta data)
   - **25/10** - Aula 22: Métodos de ordenação - bubble sort, selection sort e insertion sort
   - **31/10** - Aula 23: Métodos de ordenação - merge sort, shell sort e quick sort
   - **01/11** - Aula 24: Ordenação em tempo linear
