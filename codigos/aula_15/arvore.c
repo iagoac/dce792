@@ -37,7 +37,7 @@ struct node* buscar(struct node* root, int valor) {
     }
 
     // Valor é maior que a raiz
-    if (root->valor < valor) {
+    if (root->valor > valor) {
         return buscar(root->direita, valor);
     }
 
