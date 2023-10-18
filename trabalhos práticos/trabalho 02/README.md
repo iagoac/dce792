@@ -32,7 +32,7 @@ Observa-se que o trabalho que não compilar com o *makefile* disponibilizado lev
 
 ## Entrega e avaliação
 
-Cada grupo deverá enviar um único arquivo *.zip* contendo todos os arquivos *.c*, todos os arquivos *.h* e o *makefile* utilizado pelo grupo. O arquivo deverá ser entregado no Moodle da disciplina até as 23h59 do dia 27/09/2023. Entregas em atraso não serão toleradas.
+Cada grupo deverá enviar um único arquivo *.zip* contendo todos os arquivos *.c*, todos os arquivos *.h* e o *makefile* utilizado pelo grupo. O arquivo deverá ser entregado no Moodle da disciplina até as 23h59 do dia 27/10/2023. Entregas em atraso não serão toleradas.
 
 A nota do trabalho será um valor $z$ entre $0$ e $100$, onde
 
