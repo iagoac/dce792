@@ -13,7 +13,14 @@ O código deverá contabilizar e exibir
  - A memória total gasta pelo algoritmo
 
 ### Entradas
-Será dada uma única instância contendo diversas structs. A ordenação deverá ser realizada pelo campo __nome__ da struct. Observe que deve-se construir um vetor com a struct completa e ordena-lo com base nesta única chave. 
+Será dada uma única instância contendo diversos itens (structs). Esta entrada está disponível neste mesmo diretório e se chama _jogadores.csv_. Este é um arquivo _.csv_ com cinco diferentes colunas: 
+ - Nome
+ - Posição
+ - Naturalidade
+ - Posição
+ - Idade
+
+Note que cada linha (com excessão da primeira) refere-se a um diferente jogador. A ordenação deverá ser realizada pelo campo __nome__ da struct. Observe que deve-se construir um vetor com a struct completa e ordena-lo com base nesta única chave. 
 
 O código também deverá receber como entrada um inteiro indicando qual algoritmo será utilizado
  - 1 para o método de ordenação simples
@@ -22,7 +29,7 @@ O código também deverá receber como entrada um inteiro indicando qual algorit
 
 
 ### Saída esperada
-Espera-se que o código imprima a lista de structs ordenada. Logo após, ele deve imprimir quatro números em ponto flutuante:
+Espera-se que o código imprima a lista de structs ordenada (com todos os campos da struct e não somente o seu nome). Logo após, ele deve imprimir quatro números em ponto flutuante:
  - O tempo de execução (em milisegundos)
  - O número de operações de comparação executadas
  - O número de operações de troca executadas
