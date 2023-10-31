@@ -37,7 +37,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **25/10** - Aula 21: Dúvidas sobre o TP2 e [Métodos de ordenação - bubble sort, selection sort e insertion sort](https://github.com/iagoac/dce792/blob/main/slides/aula_21.pdf)
     - **27/10** - Entrega do TP2
   - **31/10** - [Aula 22: Métodos de ordenação - merge sort e quick sort](https://github.com/iagoac/dce792/blob/main/slides/aula_22.pdf)
-  - **01/11** - Aula 23: Ordenação em tempo linear
+  - **01/11** - [Aula 23: Ordenação em tempo linear](https://github.com/iagoac/dce792/blob/main/slides/aula_23.pdf)
   - **14/11** - Aula 24: Listas de prioridade - Heaps
   - **21/11** - Aula 25: Heaps - continuação
   - **22/11** - Aula 26: Tabelas hash
