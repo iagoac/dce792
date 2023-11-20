@@ -39,7 +39,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **31/10** - [Aula 22: Métodos de ordenação - merge sort e quick sort](https://github.com/iagoac/dce792/blob/main/slides/aula_22.pdf)
   - **01/11** - [Aula 23: Ordenação em tempo linear](https://github.com/iagoac/dce792/blob/main/slides/aula_23.pdf)
   - **14/11** - [Aula 24: Listas de prioridades](https://github.com/iagoac/dce792/blob/main/slides/aula_24.pdf)
-  - **21/11** - Aula 25: Listas de prioridades com heaps
+  - **21/11** - [Aula 25: Listas de prioridades com heaps](https://github.com/iagoac/dce792/blob/main/slides/aula_25.pdf)
   - **22/11** - Aula 26: Tabelas hash
   - **28/11** - Aula 27: Tabelas hash - continuação
   - **29/11** - Aula 28: Entrega do TP3
