@@ -6,8 +6,8 @@
 
 #### Horário
 
-  - Aula teórica: Terças-feiras, 10h às 12h (Laboratório B-207)
-  - Aula teórica: Quartas-feiras, 10h às 12h (Laboratório B-207)
+  - Aula prática: Terças-feiras, 10h às 12h (Laboratório B-208)
+  - Aula prática: Quartas-feiras, 10h às 12h (Laboratório B-208)
  
 #### Histórico e planejamento das aulas
 
