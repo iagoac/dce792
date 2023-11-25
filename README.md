@@ -41,7 +41,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **14/11** - [Aula 24: Listas de prioridades](https://github.com/iagoac/dce792/blob/main/slides/aula_24.pdf)
   - **21/11** - [Aula 25: Listas de prioridades com heaps](https://github.com/iagoac/dce792/blob/main/slides/aula_25.pdf)
   - **22/11** - Aula 26: Tempo para preparação do TP3
-  - **28/11** - Aula 27: Tabelas hash
+  - **28/11** - [Aula 27: Tabelas hash](https://github.com/iagoac/dce792/blob/main/slides/aula_27.pdf)
   - **29/11** - Aula 28: Continuação de tabelas hash e Entrega do TP3
   - **05/12** - Aula 29: Dúvidas sobre o trabalho de recuperação de aprendizagem
   - **06/12** - Aula 30: Entrega do trabalho de recuperação de aprendizagem
