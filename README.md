@@ -43,8 +43,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **22/11** - Aula 26: Tempo para preparação do TP3
   - **28/11** - [Aula 27: Tabelas hash](https://github.com/iagoac/dce792/blob/main/slides/aula_27.pdf)
   - **29/11** - Aula 28: Continuação de tabelas hash e Entrega do TP3
-  - **05/12** - Aula 29: Dúvidas sobre o trabalho de recuperação de aprendizagem
-  - **06/12** - Aula 30: Entrega do trabalho de recuperação de aprendizagem
+  - **06/12** - Aula 29: Dúvidas sobre o trabalho de recuperação de aprendizagem
+  - **12/12** - [Aula 30: Entrega do trabalho de recuperação de aprendizagem](https://ead.unifal-mg.edu.br/moodle2/mod/assign/view.php?id=375387&forceview=1)
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. 
 Entretanto, espera-se seguir a risca o planejamento realizado no início do semestre.
