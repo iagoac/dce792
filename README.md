@@ -14,7 +14,7 @@
 As aulas serão todas ministradas presencialmente. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.
 
   - **06/08** - Aula 01: Introdução a disciplina DCE792
-  - **07/08** - Aula 02: Revisão de C
+  - **07/08** - [Aula 02: Revisão de C](slides/aula_02.pdf)
   - **13/08** - Aula 03: Revisão de C - Continuação
   - **14/08** - Aula 04: Noções de complexidade de algoritmos
   - **20/08** - Aula 05: Compilando programas com Makefile
