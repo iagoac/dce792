@@ -17,8 +17,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **07/08** - [Aula 02: Revisão de C](slides/aula_02.pdf)
   - **13/08** - Aula 03: Revisão de C - Continuação
   - **14/08** - Aula 04: Noções de complexidade de algoritmos
-  - **20/08** - Aula 05: Compilando programas com Makefile
-  - **21/08** - Aula 06: Debugando programas com Valgrind e Disponibilização do TP1
+  - **20/08** - [Aula 05: Compilando programas com Makefile](slides/aula_05.pdf)
+  - **21/08** - [Aula 06: Debugando programas com Valgrind](slides/aula_06.pdf) e Disponibilização do TP1
   - **27/09** - Aula 07: Listas simples
   - **28/09** - Aula 08: Pilhas
   - **03/09** - Aula 09: Filas circulares
