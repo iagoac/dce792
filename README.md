@@ -20,7 +20,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **20/08** - [Aula 05: Compilando programas com Makefile](slides/aula_05.pdf)
   - **21/08** - [Aula 06: Debugando programas com Valgrind](slides/aula_06.pdf) e [Disponibilização do TP1](trabalhos/tp1/descricao.pdf)
   - **27/09** - [Aula 07: Listas simples](slides/aula_07.pdf)
-  - **28/09** - Aula 08: Pilhas
+  - **28/09** - [Aula 08: Pilhas](slides/aula_08.pdf)
   - **03/09** - Aula 09: Filas circulares
   - **04/09** - Aula 10: Filas com apontadores
   - **10/09** - Aula 11: Listas duplamente encadeadas
