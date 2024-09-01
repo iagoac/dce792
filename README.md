@@ -22,9 +22,9 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **27/09** - [Aula 07: Listas simples](slides/aula_07.pdf)
   - **28/09** - [Aula 08: Pilhas](slides/aula_08.pdf)
   - **03/09** - Aula 09: Filas circulares
-  - **04/09** - Aula 10: Filas com apontadores
-  - **10/09** - Aula 11: Listas duplamente encadeadas
-  - **11/09** - Aula 12: Tempo para preparação do TP1
+  - **04/09** - ~Aula 10: Filas com apontadores~
+  - **10/09** - Aula 11: Filas com apontadores
+  - **11/09** - Aula 12: Listas duplamente encadeadas
   - **17/09** - Aula 13: Tempo para preparação do TP1
   - **18/09** - Aula 14: Entrega do TP1 e disponibilzação do TP2  (sem aula nesta data)
   - **24/10** - Aula 15: Árvores binárias
