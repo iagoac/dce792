@@ -27,10 +27,10 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **11/09** - [Aula 12: Listas duplamente encadeadas](slides/aula_12.pdf)
   - **17/09** - Aula 13: Tempo para preparação do TP1
   - **18/09** - Aula 14: Entrega do TP1 e [disponibilzação do TP2](trabalhos/tp2/descricao.pdf)  (sem aula nesta data)
-  - **24/10** - [Aula 15: Árvores binárias](slides/aula_15.pdf)
-  - **25/10** - Aula 16: Percursos em árvores binárias
-  - **01/10** - Aula 17: Balanceando uma árvore binária
-  - **02/10** - Sem aula
+  - **24/10** - Sem aula (furto dos computadores)
+  - **25/10** - [Aula 15: Árvores binárias](slides/aula_15.pdf)
+  - **01/10** - [Aula 16: Percursos em árvores binárias](slides/aula_16.pdf)
+  - **02/10** - [Aula 17: Balanceando uma árvore binária](slides/aula_17.pdf)
   - **08/10** - Aula 18: Árvores balanceadas (AVL)
   - **09/10** - Aula 19: Remoção em árvores AVL
   - **22/10** - Aula 20: Dúvidas sobre o TP2 e Métodos de ordenação - bubble sort, selection sort e insertion sort
