@@ -36,10 +36,10 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **22/10** - Aula 20: Dúvidas sobre o TP2 e [Métodos de ordenação - bubble sort, selection sort e insertion sort](slides/aula_20.pdf)
   - **23/10** - Aula 21: Entrega do TP2; [Disponibilização do TP3](trabalhos/tp3/descricao.pdf) (sem aula nesta data)
   - **29/10** - [Aula 22: Métodos de ordenação - merge sort e quick sort](slides/aula_22.pdf)
-  - **30/11** - [Aula 23: Ordenação em tempo linear](slides/aula_23.pdf)
-  - **12/11** - Aula 24: Listas de prioridades
-  - **13/11** - Aula 25: Listas de prioridades com heaps
-  - **19/11** - Aula 26: Tempo para preparação do TP3
+  - **30/11** - Aula 23: Sem aula (Workshop da Computação)
+  - **12/11** - [Aula 24: Ordenação em tempo linear](slides/aula_24.pdf)
+  - **13/11** - Aula 25: Listas de prioridades
+  - **19/11** - Aula 26: Listas de prioridades com heaps
   - **26/11** - Aula 27: Tabelas hash
   - **27/11** - Aula 28: Continuação de tabelas hash e entrega do TP3
   - **03/12** - Aula 29: Dúvidas sobre o trabalho de recuperação de aprendizagem
