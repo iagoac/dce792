@@ -39,7 +39,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
   - **30/11** - Aula 23: Sem aula (Workshop da Computação)
   - **12/11** - Aula 24: [Ordenação em tempo linear](slides/aula_24.pdf)
   - **13/11** - Aula 25: [Listas de prioridades](slides/aula_25.pdf)
-  - **19/11** - Aula 26: Listas de prioridades com heaps
+  - **19/11** - Aula 26: [Listas de prioridades com heaps](slides/aula_26.pdf)
   - **26/11** - Aula 27: Tabelas hash
   - **27/11** - Aula 28: Continuação de tabelas hash e entrega do TP3
   - **03/12** - Aula 29: Dúvidas sobre o trabalho de recuperação de aprendizagem
