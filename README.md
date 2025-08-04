@@ -6,47 +6,45 @@
 
 #### Horário
 
-  - Aula prática: Terças-feiras, 10h às 12h (Laboratório B-207)
-  - Aula prática: Quartas-feiras, 10h às 12h (Laboratório B-207)
+  - Aula prática: Terças-feiras, 08h às 10h (Laboratório B-207)
+  - Aula prática: Quartas-feiras, 08h às 10h (Laboratório B-207)
  
 #### Histórico e planejamento das aulas
 
 As aulas serão todas ministradas presencialmente. Todos os slides e vídeos utilizados serão disponibilizados assim que estiverem prontos.
 
   - **06/08** - Aula 01: Introdução a disciplina DCE792
-  - **07/08** - [Aula 02: Revisão de C](slides/aula_02.pdf)
-  - **13/08** - [Aula 03: Revisão de C - Continuação](slides/aula_03.pdf)
-  - **14/08** - Aula 04: Noções de complexidade de algoritmos
-  - **20/08** - [Aula 05: Compilando programas com Makefile](slides/aula_05.pdf)
-  - **21/08** - [Aula 06: Debugando programas com Valgrind](slides/aula_06.pdf) e [Disponibilização do TP1](trabalhos/tp1/descricao.pdf)
-  - **27/09** - [Aula 07: Listas simples](slides/aula_07.pdf)
-  - **28/09** - [Aula 08: Pilhas](slides/aula_08.pdf)
-  - **03/09** - [Aula 09: Filas circulares](slides/aula_09.pdf)
-  - **04/09** - ~Aula 10: Filas com apontadores~
-  - **10/09** - [Aula 11: Filas com apontadores](slides/aula_11.pdf)
-  - **11/09** - [Aula 12: Listas duplamente encadeadas](slides/aula_12.pdf)
+  - **12/08** - Aula 02: Revisão de C
+  - **13/08** - Aula 03: Revisão de C - Continuação
+  - **19/08** - Aula 04: Noções de complexidade de algoritmos
+  - **20/08** - Aula 05: Compilando programas com Makefile
+  - **26/08** - Aula 06: Debugando programas com Valgrind e Disponibilização do TP1
+  - **27/08** - Aula 07: Listas simples
+  - **02/09** - Aula 08: Pilhas
+  - **03/09** - Aula 09: Filas circulares
+  - **09/09** - Aula 10: Filas com apontadores
+  - **10/09** - Aula 11: Filas com apontadores
+  - **16/09** - Aula 12: Listas duplamente encadeadas
   - **17/09** - Aula 13: Tempo para preparação do TP1
-  - **18/09** - Aula 14: Entrega do TP1 e [disponibilzação do TP2](trabalhos/tp2/descricao.pdf)  (sem aula nesta data)
-  - **24/10** - Sem aula (furto dos computadores)
-  - **25/10** - [Aula 15: Árvores binárias](slides/aula_15.pdf)
-  - **01/10** - [Aula 16: Percursos em árvores binárias](slides/aula_16.pdf)
-  - **02/10** - [Aula 17: Balanceando uma árvore binária](slides/aula_17.pdf)
-  - **08/10** - [Aula 18: Árvores balanceadas (AVL)](slides/aula_18.pdf)
-  - **09/10** - [Aula 19: Remoção em árvores AVL](slides/aula_19.pdf)
-  - **22/10** - Aula 20: Dúvidas sobre o TP2 e [Métodos de ordenação - bubble sort, selection sort e insertion sort](slides/aula_20.pdf)
-  - **23/10** - Aula 21: Entrega do TP2; [Disponibilização do TP3](trabalhos/tp3/descricao.pdf) (sem aula nesta data)
-  - **29/10** - Aula 22: [Métodos de ordenação - merge sort e quick sort](slides/aula_22.pdf)
-  - **30/11** - Aula 23: Sem aula (Workshop da Computação)
-  - **12/11** - Aula 24: [Ordenação em tempo linear](slides/aula_24.pdf)
-  - **13/11** - Aula 25: [Listas de prioridades](slides/aula_25.pdf)
-  - **19/11** - Aula 26: [Listas de prioridades com heaps](slides/aula_26.pdf)
-  - **26/11** - Aula 27: [Tabelas hash](slides/aula_27.pdf)
-  - **27/11** - Aula 28: [Continuação de tabelas hash](slides/aula_28.pdf) e entrega do TP3 (adiado para dia 29/11 às 14h00)
-  - **03/12** - Aula 29: Dúvidas sobre o trabalho de recuperação de aprendizagem (Online)
-  - **06/12** - Aula 30: Entrega do trabalho de recuperação de aprendizagem
+  - **23/09** - Aula 14: Entrega do TP1 e disponibilzação do TP2
+  - **24/09** - Aula 15: Dúvidas sobre o TP2
+  - **30/09** - Aula 16: Árvores binárias
+  - **01/10** - Aula 17: Percursos em árvores binárias
+  - **07/10** - Aula 18: Balanceando uma árvore binária
+  - **08/10** - Aula 19: Árvores balanceadas (AVL)
+  - **14/10** - Aula 20: Remoção em árvores AVL
+  - **21/10** - Aula 21: Métodos de ordenação - bubble sort, selection sort e insertion sort
+  - **22/10** - Aula 22: Entrega do TP2; Disponibilização do TP3
+  - **29/10** - Aula 23: Métodos de ordenação - merge sort e quick sort
+  - **04/11** - Aula 24: Sem aula 
+  - **05/11** - Aula 25: Ordenação em tempo linear
+  - **11/11** - Aula 26: Listas de prioridades
+  - **12/11** - Aula 27: Listas de prioridades com heaps
+  - **18/11** - Aula 28: Tabelas hash
+  - **19/11** - Aula 29: Continuação de tabelas hash e entrega do TP3
+  - **25/11** - Aula 30: Aula 30: Entrega do trabalho de recuperação de aprendizagem
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças. 
-Entretanto, espera-se seguir a risca o planejamento realizado no início do semestre.
 
 ---
 
@@ -81,15 +79,15 @@ Este repositório no GitHub também servirá como fórum de dúvidas da discipli
 
 Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite o material fonte:
 
-Iago A. Carvalho (2024), DCE792. Online: https://github.com/iagoac/dce792 Version 2.00; GNU General Public License v3.0.
+Iago A. Carvalho (2025), DCE792. Online: https://github.com/iagoac/dce792 Version 3.00; GNU General Public License v3.0.
 
 
 > @Misc{CarvalhoDCE792,  
 title={DCE792 - AEDs II Prática},  
 author={Iago A. Carvalho},   
 howPublished={\url{https&#58;//github\.com/iagoac/dce792}},  
-year={2024},  
-note={Version 2.00; GNU General Public License v3.0}  
+year={2025},  
+note={Version 3.00; GNU General Public License v3.0}  
 }
 
 
