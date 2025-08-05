@@ -274,4 +274,9 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# Ignore MacOS files
 .DS_Store
+._*
+.Spotlight-V100
+.Trashes
