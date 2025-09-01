@@ -18,14 +18,14 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **13/08** - Aula 03: [Revisão de C - Continuação](aulas/aula_03.pdf)
 - **19/08** - Aula 04: Noções de complexidade de algoritmos
 - **20/08** - Aula 05: [Compilando programas com Makefile](aulas/aula_05.pdf)
-- **26/08** - Aula 06: [Debugando programas com Valgrind](aulas/aula_06.pdf) e Disponibilização do TP1
-- **27/08** - Aula 07: Listas simples
-- **02/09** - Aula 08: Pilhas
-- **03/09** - Aula 09: Filas circulares
-- **09/09** - Aula 10: Filas com apontadores
+- **26/08** - Aula 06: [Debugando programas com Valgrind](aulas/aula_06.pdf) e [Disponibilização do TP1](trabalhos/tp01/descricao.pdf)
+- **27/08** - Aula 07: Sem aula (evento da internacionalização)
+- **02/09** - Aula 08: Listas simples
+- **03/09** - Aula 09: Pilhas
+- **09/09** - Aula 10: Filas circulares
 - **10/09** - Aula 11: Filas com apontadores
-- **16/09** - Aula 12: Listas duplamente encadeadas
-- **17/09** - Aula 13: Tempo para preparação do TP1
+- **16/09** - Aula 12: Filas com apontadores
+- **17/09** - Aula 13: Listas duplamente encadeadas
 - **23/09** - Aula 14: Entrega do TP1 e disponibilzação do TP2
 - **24/09** - Aula 15: Dúvidas sobre o TP2
 - **30/09** - Aula 16: Árvores binárias
@@ -36,7 +36,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **21/10** - Aula 21: Métodos de ordenação - bubble sort, selection sort e insertion sort
 - **22/10** - Aula 22: Entrega do TP2; Disponibilização do TP3
 - **29/10** - Aula 23: Métodos de ordenação - merge sort e quick sort
-- **04/11** - Aula 24: Sem aula 
+- **04/11** - Aula 24: Sem aula
 - **05/11** - Aula 25: Ordenação em tempo linear
 - **11/11** - Aula 26: Listas de prioridades
 - **12/11** - Aula 27: Listas de prioridades com heaps
