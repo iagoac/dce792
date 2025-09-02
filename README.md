@@ -21,7 +21,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **26/08** - Aula 06: [Debugando programas com Valgrind](aulas/aula_06.pdf) e [Disponibilização do TP1](trabalhos/tp01/descricao.pdf)
 - **27/08** - Aula 07: Sem aula (evento da internacionalização)
 - **02/09** - Aula 08: [Listas simples](aulas/aula_08.pdf)
-- **03/09** - Aula 09: Pilhas
+- **03/09** - Aula 09: [Pilhas](aulas/aula_09.pdf)
 - **09/09** - Aula 10: Filas circulares
 - **10/09** - Aula 11: Filas com apontadores
 - **16/09** - Aula 12: Filas com apontadores
