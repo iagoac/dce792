@@ -22,8 +22,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **27/08** - Aula 07: Sem aula (evento da internacionalização)
 - **02/09** - Aula 08: [Listas simples](aulas/aula_08.pdf)
 - **03/09** - Aula 09: [Pilhas](aulas/aula_09.pdf)
-- **09/09** - Aula 10: Filas circulares
-- **10/09** - Aula 11: Filas com apontadores
+- **09/09** - Aula 10: [Filas circulares](aulas/aula_10.pdf)
+- **10/09** - Aula 11: [Filas com apontadores](aulas/aula_11.pdf)
 - **16/09** - Aula 12: Filas com apontadores
 - **17/09** - Aula 13: Listas duplamente encadeadas
 - **23/09** - Aula 14: Entrega do TP1 e disponibilzação do TP2
