@@ -26,7 +26,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **10/09** - Aula 11: [Filas com apontadores](aulas/aula_11.pdf)
 - **16/09** - Aula 12: [Listas duplamente encadeadas](aulas/aula_12.pdf)
 - **17/09** - Aula 13: Sem aula
-- **23/09** - Aula 14: Árvores binárias
+- **23/09** - Aula 14: [Árvores binárias](aulas/aula_14.pdf)
 - **24/09** - Aula 15: Entrega do TP1 e disponibilzação do TP2
 - **30/09** - Aula 16: Percursos em árvores binárias
 - **01/10** - Aula 17: Balanceando uma árvore binária
