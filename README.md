@@ -28,8 +28,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **17/09** - Aula 13: Sem aula
 - **23/09** - Aula 14: [Árvores binárias](aulas/aula_14.pdf)
 - **24/09** - Aula 15: Entrega do TP1 e [disponibilzação do TP2](trabalhos/tp02/descricao.pdf)
-- **30/09** - [Aula 16: Percursos em árvores binárias](aulas/aula_16.pdf)
-- **01/10** - [Aula 17: Balanceando uma árvore binária](aulas/aula_17.pdf)
+- **30/09** - Aula 16: [Percursos em árvores binárias](aulas/aula_16.pdf)
+- **01/10** - Aula 17: [Balanceando uma árvore binária](aulas/aula_17.pdf)
 - **07/10** - Aula 18: Sem aula
 - **08/10** - Aula 19: Árvores balanceadas (AVL)
 - **14/10** - Aula 20: Remoção em árvores AVL
