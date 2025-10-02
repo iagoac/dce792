@@ -34,15 +34,18 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **08/10** - Aula 19: Árvores balanceadas (AVL)
 - **14/10** - Aula 20: Remoção em árvores AVL
 - **21/10** - Aula 21: Métodos de ordenação - bubble sort, selection sort e insertion sort
-- **22/10** - Aula 22: Entrega do TP2; Disponibilização do TP3
-- **29/10** - Aula 23: Métodos de ordenação - merge sort e quick sort
+- **22/10** - Aula 22: Métodos de ordenação - merge sort e quick sort
+- **29/10** - Aula 23: Ordenação em tempo linear
 - **04/11** - Aula 24: Sem aula
-- **05/11** - Aula 25: Ordenação em tempo linear
+- **05/11** - Aula 25: Entrega do TP2; Disponibilização do TP3
 - **11/11** - Aula 26: Listas de prioridades
 - **12/11** - Aula 27: Listas de prioridades com heaps
 - **18/11** - Aula 28: Tabelas hash
 - **19/11** - Aula 29: Continuação de tabelas hash e entrega do TP3
-- **25/11** - Aula 30: Aula 30: Entrega do trabalho de recuperação de aprendizagem
+- **25/11** - Aula 30: Entrega do TP3
+- **02/12** - Aula 31: Entrega do trabalho de recuperação de aprendizagem
+
+
 
 As datas e conteúdos descritos acima estão sujeito a eventuais mudanças.
 
