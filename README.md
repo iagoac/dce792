@@ -31,7 +31,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **30/09** - Aula 16: [Percursos em árvores binárias](aulas/aula_16.pdf)
 - **01/10** - Aula 17: [Balanceando uma árvore binária](aulas/aula_17.pdf)
 - **07/10** - Aula 18: Sem aula
-- **08/10** - Aula 19: Árvores balanceadas (AVL)
+- **08/10** - Aula 19: [Árvores balanceadas (AVL)](aulas/aula_19.pdf)
 - **14/10** - Aula 20: Remoção em árvores AVL
 - **21/10** - Aula 21: Métodos de ordenação - bubble sort, selection sort e insertion sort
 - **22/10** - Aula 22: Métodos de ordenação - merge sort e quick sort
