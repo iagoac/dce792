@@ -32,11 +32,11 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **01/10** - Aula 17: [Balanceando uma árvore binária](aulas/aula_17.pdf)
 - **07/10** - Aula 18: Sem aula
 - **08/10** - Aula 19: [Árvores balanceadas (AVL)](aulas/aula_19.pdf)
-- **14/10** - Aula 20: Remoção em árvores AVL
-- **21/10** - Aula 21: Métodos de ordenação - bubble sort, selection sort e insertion sort
-- **22/10** - Aula 22: Métodos de ordenação - merge sort e quick sort
-- **29/10** - Aula 23: Ordenação em tempo linear
-- **04/11** - Aula 24: Sem aula
+- **14/10** - Aula 20: Sem aula (semana do saco cheio)
+- **21/10** - Aula 21: [Remoção em árvores AVL](aulas/aula_21.pdf)
+- **22/10** - Aula 22: Métodos de ordenação - bubble sort, selection sort e insertion sort
+- **29/10** - Aula 23: Métodos de ordenação - merge sort e quick sort
+- **04/11** - Aula 24: Ordenação em tempo linear
 - **05/11** - Aula 25: Entrega do TP2; Disponibilização do TP3
 - **11/11** - Aula 26: Listas de prioridades
 - **12/11** - Aula 27: Listas de prioridades com heaps
