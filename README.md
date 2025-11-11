@@ -38,7 +38,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **29/10** - Aula 23: [Métodos de ordenação - merge sort e quick sort](aulas/aula_23.pdf)
 - **04/11** - Aula 24: Ordenação em tempo linear
 - **05/11** - Aula 25: Entrega do TP2; Disponibilização do TP3
-- **11/11** - Aula 26: Listas de prioridades
+- **11/11** - Aula 26: [Listas de prioridades](aulas/aula_26.pdf)
 - **12/11** - Aula 27: Listas de prioridades com heaps
 - **18/11** - Aula 28: Tabelas hash
 - **19/11** - Aula 29: Continuação de tabelas hash e entrega do TP3
