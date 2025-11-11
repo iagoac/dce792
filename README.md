@@ -35,8 +35,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **14/10** - Aula 20: Sem aula (semana do saco cheio)
 - **21/10** - Aula 21: [Remoção em árvores AVL](aulas/aula_21.pdf)
 - **22/10** - Aula 22: [Métodos de ordenação - bubble sort, selection sort e insertion sort](aulas/aula_22.pdf)
-- **29/10** - Aula 23: [Métodos de ordenação - merge sort e quick sort](aulas/aula_23.pdf)
-- **04/11** - Aula 24: Ordenação em tempo linear
+- **28/10** - Aula 23: [Métodos de ordenação - merge sort e quick sort](aulas/aula_23.pdf)
+- **29/10** - Aula 24: [Ordenação em tempo linear](aulas/aula_24.pdf)
 - **05/11** - Aula 25: Entrega do TP2; Disponibilização do TP3
 - **11/11** - Aula 26: [Listas de prioridades](aulas/aula_26.pdf)
 - **12/11** - Aula 27: Listas de prioridades com heaps
