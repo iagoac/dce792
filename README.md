@@ -40,8 +40,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **05/11** - Aula 25: Entrega do TP2; [Disponibilização do TP3](trabalhos/tp03/descricao.pdf)
 - **11/11** - Aula 26: [Listas de prioridades](aulas/aula_26.pdf)
 - **12/11** - Aula 27: [Listas de prioridades com heaps](aulas/aula_27.pdf)
-- **18/11** - Aula 28: Tabelas hash
-- **19/11** - Aula 29: Tabelas hash - parte 2
+- **18/11** - Aula 28: [Tabelas hash](aulas/aula_28.pdf)
+- **19/11** - Aula 29: [Tabelas hash - parte 2](aulas/aula_29.pdf)
 - **02/12** - Aula 30: Entrega do TP3
 - **09/12** - Aula 31: Entrega do trabalho de recuperação de aprendizagem
 
