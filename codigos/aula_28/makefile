@@ -1,7 +1,7 @@
 # Automatizando o makefile
 
 # Nome do projeto
-PROJ_NAME=heap
+PROJ_NAME=hash
 
 # Arquivos .c
 C_SOURCE=$(wildcard *.c)
