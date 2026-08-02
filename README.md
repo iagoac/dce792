@@ -82,14 +82,14 @@ Este repositório no GitHub também servirá como fórum de dúvidas da discipli
 
 Se você utilizar o material desta disciplina de qualquer maneira, por favor, cite o material fonte:
 
-Iago A. Carvalho (2025), DCE792. Online: [https://github.com/iagoac/dce792](https://github.com/iagoac/dce792) Version 3.00; GNU General Public License v3.0.
+Iago A. Carvalho (2026), DCE792. Online: [https://github.com/iagoac/dce792](https://github.com/iagoac/dce792) Version 4.00; GNU General Public License v3.0.
 
 > @Misc{CarvalhoDCE792,  
 title={DCE792 - AEDs II Prática},  
 author={Iago A. Carvalho},
 howPublished={\url{https&#58;//github\.com/iagoac/dce792}},  
-year={2025},  
-note={Version 3.00; GNU General Public License v3.0}  
+year={2026},  
+note={Version 4.00; GNU General Public License v3.0}  
 }
 
 Iago A. Carvalho  
