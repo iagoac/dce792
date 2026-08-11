@@ -16,7 +16,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **03/08** - Aula 01: Introdução a disciplina DCE792
 - **05/08** - Aula 02: [Revisão de C](aulas/aula_02.pdf)
 - **10/08** - Aula 03: [Revisão de C - Continuação](aulas/aula_03.pdf)
-- **12/08** - Aula 04: Noções de complexidade de algoritmos
+- **12/08** - Aula 04: [Noções de complexidade de algoritmos](aulas/aula_04.pdf)
 - **17/08** - Aula 05: [Compilando programas com Makefile](aulas/aula_05.pdf)
 - **19/08** - Aula 06: [Debugando programas com Valgrind](aulas/aula_06.pdf) e Disponibilização do TP1
 - **24/08** - Aula 07: Listas simples
