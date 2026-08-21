@@ -18,32 +18,32 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **10/08** - Aula 03: [Revisão de C - Continuação](aulas/aula_03.pdf)
 - **12/08** - Aula 04: [Noções de complexidade de algoritmos](aulas/aula_04.pdf)
 - **17/08** - Aula 05: [Compilando programas com Makefile](aulas/aula_05.pdf)
-- **19/08** - Aula 06: [Debugando programas com Valgrind](aulas/aula_06.pdf) e Disponibilização do TP1
+- **19/08** - Aula 06: [Debugando programas com Valgrind](aulas/aula_06.pdf) e [Disponibilização do TP1](trabalhos/tp01/descricao.md)
  - [Debugando código utilizando Visual Studio Code](https://code.visualstudio.com/docs/debugtest/debugging)
  - [Debugando código C/C++ no NetBeans](https://netbeans.apache.org/tutorial/main/kb/docs/cnd/debugging/)
  - [Debugando código Java no IntelliJ](https://www.jetbrains.com/help/idea/debugging-code.html)
-- **24/08** - Aula 07: Listas simples
+- **24/08** - Aula 07: [Listas simples](aulas/aula_07.pdf)
 - **26/08** - Aula 08: Pilhas
 - **31/08** - Aula 09: Filas circulares
 - **02/09** - Aula 10: Filas com apontadores
 - **09/09** - Aula 11: Listas duplamente encadeadas
 - **14/09** - Aula 12: Árvores binárias
 - **21/09** - Aula 14: Percursos em árvores binárias
-- **23/09** - Aula 15: Entrega do TP1 e [disponibilzação do TP2](trabalhos/tp02/descricao.pdf)
-- **05/09** - Aula 16: Sem aula
-- **19/10** - Aula 17: Balanceando uma árvore binária
-- **21/10** - Aula 18: Árvores balanceadas (AVL)
-- **26/10** - Aula 19: Remoção em árvores AVL
-- **04/10** - Aula 20: Métodos de ordenação - bubble sort, selection sort e insertion sort
-- **09/10** - Aula 21: Métodos de ordenação - merge sort e quick sort
-- **11/10** - Aula 22: Ordenação em tempo linear
-- **16/10** - Aula 23: Preparação do TP2
-- **18/10** - Aula 24: Entrega do TP2; Disponibilização do TP3
-- **23/11** - Aula 25: Listas de prioridades
-- **25/11** - Aula 26: Listas de prioridades com heaps
+- **23/09** - Aula 15: Entrega do TP1 e disponibilzação do TP2
+- **28/09** - Aula 16: Balanceando uma árvore binária
+- **30/09** - Aula 17: Árvores balanceadas (AVL)
+- **05/10** - Aula 18: Sem aula
+- **19/10** - Aula 19: Remoção em árvores AVL
+- **21/10** - Aula 20: Métodos de ordenação - bubble sort, selection sort e insertion sort
+- **26/10** - Aula 21: Métodos de ordenação - merge sort e quick sort
+- **04/11** - Aula 22: Ordenação em tempo linear
+- **09/11** - Aula 23: Preparação do TP2
+- **11/11** - Aula 24: Entrega do TP2; Disponibilização do TP3
+- **16/11** - Aula 25: Listas de prioridades
+- **18/11** - Aula 26: Listas de prioridades com heaps
 - **30/11** - Aula 27: Tabelas hash
-- **02/11** - Aula 28: Tabelas hash - parte 2
-- **07/11** - Aula 29: Preparação do TP3
+- **02/12** - Aula 28: Tabelas hash - parte 2
+- **07/12** - Aula 29: Preparação do TP3
 - **09/12** - Aula 30: Entrega do TP3
 - **14/12** - Aula 31: Entrega do trabalho de recuperação de aprendizagem
 
