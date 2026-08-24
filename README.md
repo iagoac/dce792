@@ -23,7 +23,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
  - [Debugando código C/C++ no NetBeans](https://netbeans.apache.org/tutorial/main/kb/docs/cnd/debugging/)
  - [Debugando código Java no IntelliJ](https://www.jetbrains.com/help/idea/debugging-code.html)
 - **24/08** - Aula 07: [Listas simples](aulas/aula_07.pdf)
-- **26/08** - Aula 08: Pilhas
+- **26/08** - Aula 08: [Pilhas](aulas/aula_08.pdf)
 - **31/08** - Aula 09: Filas circulares
 - **02/09** - Aula 10: Filas com apontadores
 - **09/09** - Aula 11: Listas duplamente encadeadas
