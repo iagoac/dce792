@@ -24,8 +24,8 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
  - [Debugando código Java no IntelliJ](https://www.jetbrains.com/help/idea/debugging-code.html)
 - **24/08** - Aula 07: [Listas simples](aulas/aula_07.pdf)
 - **26/08** - Aula 08: [Pilhas](aulas/aula_08.pdf)
-- **31/08** - Aula 09: Filas circulares
-- **02/09** - Aula 10: Filas com apontadores
+- **31/08** - Aula 09: [Filas circulares](aulas/aula_09.pdf)
+- **02/09** - Aula 10: [Filas com apontadores](aulas/aula_10.pdf)
 - **09/09** - Aula 11: Listas duplamente encadeadas
 - **14/09** - Aula 12: Árvores binárias
 - **21/09** - Aula 14: Percursos em árvores binárias
