@@ -19,9 +19,9 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **12/08** - Aula 04: [Noções de complexidade de algoritmos](aulas/aula_04.pdf)
 - **17/08** - Aula 05: [Compilando programas com Makefile](aulas/aula_05.pdf)
 - **19/08** - Aula 06: [Debugando programas com Valgrind](aulas/aula_06.pdf) e [Disponibilização do TP1](trabalhos/tp01/descricao.md)
- - [Debugando código utilizando Visual Studio Code](https://code.visualstudio.com/docs/debugtest/debugging)
- - [Debugando código C/C++ no NetBeans](https://netbeans.apache.org/tutorial/main/kb/docs/cnd/debugging/)
- - [Debugando código Java no IntelliJ](https://www.jetbrains.com/help/idea/debugging-code.html)
+  - [Debugando código utilizando Visual Studio Code](https://code.visualstudio.com/docs/debugtest/debugging)
+  - [Debugando código C/C++ no NetBeans](https://netbeans.apache.org/tutorial/main/kb/docs/cnd/debugging/)
+  - [Debugando código Java no IntelliJ](https://www.jetbrains.com/help/idea/debugging-code.html)
 - **24/08** - Aula 07: [Listas simples](aulas/aula_07.pdf)
 - **26/08** - Aula 08: [Pilhas](aulas/aula_08.pdf)
 - **31/08** - Aula 09: [Filas circulares](aulas/aula_09.pdf)
@@ -32,7 +32,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **21/09** - Aula 14: [Percursos em árvores binárias](aulas/aula_14.pdf)
 - **23/09** - Aula 15: Sem aula; Entrega do TP1 e disponibilzação do TP2
 - **28/09** - Aula 16: [Balanceando uma árvore binária](aulas/aula_16.pdf)
-- **30/09** - Aula 17: Árvores balanceadas (AVL)
+- **30/09** - Aula 17: [Árvores balanceadas (AVL)](aulas/aula_17.pdf)
 - **05/10** - Aula 18: Remoção em árvores AVL
 - **19/10** - Aula 19: Métodos de ordenação - bubble sort, selection sort e insertion sort
 - **21/10** - Aula 20: Métodos de ordenação - merge sort e quick sort
