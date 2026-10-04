@@ -33,7 +33,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **23/09** - Aula 15: Sem aula; Entrega do TP1 e disponibilzação do TP2
 - **28/09** - Aula 16: [Balanceando uma árvore binária](aulas/aula_16.pdf)
 - **30/09** - Aula 17: [Árvores balanceadas (AVL)](aulas/aula_17.pdf)
-- **05/10** - Aula 18: Remoção em árvores AVL
+- **05/10** - Aula 18: [Remoção em árvores AVL](aulas/aula_18.pdf)
 - **19/10** - Aula 19: Métodos de ordenação - bubble sort, selection sort e insertion sort
 - **21/10** - Aula 20: Métodos de ordenação - merge sort e quick sort
 - **26/10** - Aula 21: Ordenação em tempo linear
