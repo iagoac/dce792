@@ -35,10 +35,10 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **30/09** - Aula 17: [Árvores balanceadas (AVL)](aulas/aula_17.pdf)
 - **05/10** - Aula 18: [Remoção em árvores AVL](aulas/aula_18.pdf)
 - **19/10** - Aula 19: [Métodos de ordenação - bubble sort, selection sort e insertion sort](aulas/aula_19.pdf)
-- **21/10** - Aula 20: Métodos de ordenação - merge sort e quick sort
-- **26/10** - Aula 21: Ordenação em tempo linear
-- **04/11** - Aula 22: Preparação do TP2 (sem aula)
-- **09/11** - Aula 23: Preparação do TP2 (dúvidas em sala)
+- **21/10** - Aula 20: Sem aula (atividades do Workshop da Computação)
+- **26/10** - Aula 21: Sem aula (decisão do CONSUNI)
+- **04/11** - Aula 22: Métodos de ordenação - merge sort e quick sort
+- **09/11** - Aula 23: Ordenação em tempo linear
 - **11/11** - Aula 24: Entrega do TP2; Disponibilização do TP3
 - **16/11** - Aula 25: Listas de prioridades
 - **18/11** - Aula 26: Listas de prioridades com heaps
