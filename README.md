@@ -37,7 +37,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **19/10** - Aula 19: [Métodos de ordenação - bubble sort, selection sort e insertion sort](aulas/aula_19.pdf)
 - **21/10** - Aula 20: Sem aula (atividades do Workshop da Computação)
 - **26/10** - Aula 21: Sem aula (decisão do CONSUNI)
-- **04/11** - Aula 22: Métodos de ordenação - merge sort e quick sort
+- **04/11** - Aula 22: [Métodos de ordenação - merge sort e quick sort](aulas/aula_22.pdf)
 - **09/11** - Aula 23: Ordenação em tempo linear
 - **11/11** - Aula 24: Entrega do TP2; Disponibilização do TP3
 - **16/11** - Aula 25: Listas de prioridades
