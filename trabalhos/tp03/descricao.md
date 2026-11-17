@@ -13,7 +13,7 @@
 ---
 
 ## Objetivo
-Neste trabalho cada estudante deverá implementar três diferentes tabelas hash. Duas delas deverão tratar colisões por meio de listas encadeadas, enquanto a terceira será uma tabela hash de endereçamento aberto.
+Neste trabalho cada grupo de dois ou três estudantes deverá implementar três diferentes tabelas hash. Duas delas deverão tratar colisões por meio de listas encadeadas, enquanto a terceira será uma tabela hash de endereçamento aberto.
 
 A primeira tabela hash deverá tratar colisões utilizando uma estrutura de lista encadeada. Já a segunda tabela hash deverá substituir a lista encadeada por uma árvore balanceada (AVL, rubro-negra ou outra parecida). A terceira deverá ser a implementação de endereçamento aberto como visto em sala. Todos os algoritmos deverão ser desenvolvidos em linguagem de programação *C*, não sendo permitido o uso de bibliotecas externas ou bibliotecas *STL* do *C++*.
 
