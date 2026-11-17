@@ -39,7 +39,7 @@ As aulas serão todas ministradas presencialmente. Todos os slides e vídeos uti
 - **26/10** - Aula 21: Sem aula (decisão do CONSUNI)
 - **04/11** - Aula 22: [Métodos de ordenação - merge sort e quick sort](aulas/aula_22.pdf)
 - **09/11** - Aula 23: [Ordenação em tempo linear](aulas/aula_23.pdf)
-- **11/11** - Aula 24: Entrega do TP2; Disponibilização do TP3
+- **11/11** - Aula 24: Entrega do TP2; [Disponibilização do TP3](trabalhos/tp03/descricao.md)
 - **16/11** - Aula 25: [Listas de prioridades](aulas/aula_25.pdf)
 - **18/11** - Aula 26: [Listas de prioridades com heaps](aulas/aula_26.pdf)
 - **30/11** - Aula 27: Tabelas hash
